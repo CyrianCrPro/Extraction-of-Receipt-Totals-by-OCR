@@ -51,8 +51,9 @@ Exécutez le script :
 
 ```bash
 python main.py
-Les montants totaux extraits des reçus seront affichés et sauvegardés dans un dictionnaire.
 ```
+Les montants totaux extraits des reçus seront affichés et sauvegardés dans un dictionnaire.
+
 ## Exemple de Code
 Voici un extrait des étapes principales du script :
 
